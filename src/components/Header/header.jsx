@@ -4,12 +4,12 @@ import "slick-carousel/slick/slick-theme.css";
 import { ArrowRightOutlined } from "@ant-design/icons";
 
 export default function Header() {
-  var settings = {
-    dots: false,
+  const settings = {
+    dots: true,
     infinite: true,
     speed: 500,
-    slideToShow: 1,
-    slideToScroll: 1,
+    slidesToShow: 1,
+    slidesToScroll: 1,
     arrows: true,
     responsive: [
       {

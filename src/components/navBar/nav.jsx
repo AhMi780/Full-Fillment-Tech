@@ -65,7 +65,7 @@ export default function NavBar() {
               </li>
             </ul>
 
-            <ul className="nav_action_buttons li-style-none d-flex item-center">
+            <ul className="nav_action_buttons li-style-none d-flex item-center h-100">
               <li className="ml-20 nav_action_btn_quote d-none-lg">
                 <a
                   href=""
