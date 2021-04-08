@@ -106,7 +106,7 @@ export default function ITsection() {
                 </ul>{" "}
                 <a
                   className="IT_btn btn ps-relative index-1 d-flex justify-center item-center no-underline"
-                  href="#"
+                  href="/"
                 >
                   {" "}
                   <span>Read More</span>{" "}
@@ -156,7 +156,7 @@ export default function ITsection() {
                 </ul>{" "}
                 <a
                   className="IT_btn btn ps-relative index-1  d-flex justify-center item-center no-underline"
-                  href="#"
+                  href="/"
                 >
                   {" "}
                   <span>Read More</span>{" "}
@@ -204,7 +204,7 @@ export default function ITsection() {
                 </ul>{" "}
                 <a
                   className="IT_btn btn ps-relative index-1 d-flex justify-center item-center no-underline"
-                  href="#"
+                  href="/"
                 >
                   {" "}
                   <span>Read More</span>{" "}
@@ -252,7 +252,7 @@ export default function ITsection() {
                 </ul>{" "}
                 <a
                   className="IT_btn btn ps-relative index-1 d-flex justify-center item-center no-underline"
-                  href="#"
+                  href="/"
                 >
                   {" "}
                   <span>Read More</span>{" "}
@@ -300,7 +300,7 @@ export default function ITsection() {
                 </ul>{" "}
                 <a
                   className="IT_btn btn ps-relative index-1 d-flex justify-center item-center no-underline"
-                  href="#"
+                  href="/"
                 >
                   {" "}
                   <span>Read More</span>{" "}
@@ -348,7 +348,7 @@ export default function ITsection() {
                 </ul>{" "}
                 <a
                   className="IT_btn btn ps-relative index-1 d-flex justify-center item-center no-underline"
-                  href="#"
+                  href="/"
                 >
                   {" "}
                   <span>Read More</span>{" "}

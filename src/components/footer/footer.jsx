@@ -22,32 +22,32 @@ export default function Footer() {
               <div className="footer_widget_content">
                 <ul className="li-style-none">
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       About Us
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Meet Our Team
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       News & Media
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Case Studies
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Contacts
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Investors
                     </a>
                   </li>
@@ -60,32 +60,32 @@ export default function Footer() {
               <div className="footer_widget_content">
                 <ul className="li-style-none">
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       IT Management
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Cyber Security
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Cloud Computing
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       IT Consulting{" "}
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Software Dev
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       IT Support
                     </a>
                   </li>
@@ -97,27 +97,27 @@ export default function Footer() {
               <div className="footer_widget_content">
                 <ul className="li-style-none">
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Pricing and plans
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Terms of Service{" "}
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Help & FAQ{" "}
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Contact Us{" "}
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="no-underline text-grey">
+                    <a href="/" className="no-underline text-grey">
                       Site map
                     </a>
                   </li>
@@ -154,7 +154,7 @@ export default function Footer() {
               <span className="text-blue">
                 © 2020 Smart Data, All Rights Reserved. With Love by
               </span>
-              <a href="#" className="no-underline text-green">
+              <a href="/" className="no-underline text-green">
                 7oroof.com
               </a>
             </Col>
@@ -173,7 +173,7 @@ export default function Footer() {
                 <ul className="social_ul li-style-none d-flex item-center bs-bb m-10">
                   <li>
                     {" "}
-                    <a href="#" className="no-underline">
+                    <a href="/" className="no-underline">
                       <i className="social_tag text-blue trans-3s">
                         <FacebookOutlined />
                       </i>
@@ -181,7 +181,7 @@ export default function Footer() {
                   </li>
                   <li>
                     {" "}
-                    <a href="#" className="no-underline">
+                    <a href="/" className="no-underline">
                       <i className="social_tag text-blue trans-3s">
                         <InstagramOutlined />
                       </i>
@@ -189,7 +189,7 @@ export default function Footer() {
                   </li>
                   <li className="mr-0">
                     {" "}
-                    <a href="#" className="no-underline">
+                    <a href="/" className="no-underline">
                       <i className="social_tag text-blue trans-3s">
                         <TwitterOutlined />
                       </i>
@@ -199,14 +199,14 @@ export default function Footer() {
                 <Row justify="center">
                   <a
                     className="social_btn btn ps-relative index-1 no-underline text-blue d-flex justify-center item-center bs-bb m-10"
-                    href="#"
+                    href="/"
                   >
                     <i className="icon-apple"></i>
                     <span>Apple Store</span>
                   </a>
                   <a
                     className="social_btn btn ps-relative index-1 no-underline text-blue d-flex justify-center item-center bs-bb m-10"
-                    href="#"
+                    href="/"
                   >
                     <i className="icon-play-store"></i>
                     <span>Play Store</span>

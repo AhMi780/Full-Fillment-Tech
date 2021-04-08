@@ -29,7 +29,7 @@ export default function TechSection() {
                 </p>
                 <a
                   className="tech_btn btn ps-relative index-1 no-underline d-flex justify-center item-center text-white bg-green mt-30 mb-30"
-                  href="#"
+                  href="/"
                 >
                   <span>Our Pricing</span>
                 </a>
@@ -58,7 +58,7 @@ export default function TechSection() {
               </p>
               <a
                 className=" feature_arrow no-underline align-self-center  "
-                href="#"
+                href="/"
               >
                 <i className="icon-arrow-right d-flex justify-center item-center">
                   <ArrowRightOutlined />
@@ -80,7 +80,7 @@ export default function TechSection() {
               </p>
               <a
                 className=" feature_arrow no-underline align-self-center  "
-                href="#"
+                href="/"
               >
                 <i className="icon-arrow-right d-flex justify-center item-center">
                   <ArrowRightOutlined />
@@ -102,7 +102,7 @@ export default function TechSection() {
               </p>
               <a
                 className=" feature_arrow no-underline align-self-center  "
-                href="#"
+                href="/"
               >
                 <i className="icon-arrow-right d-flex justify-center item-center">
                   <ArrowRightOutlined />
@@ -124,7 +124,7 @@ export default function TechSection() {
               </p>
               <a
                 className=" feature_arrow no-underline align-self-center  "
-                href="#"
+                href="/"
               >
                 <i className="icon-arrow-right d-flex justify-center item-center">
                   <ArrowRightOutlined />
@@ -155,7 +155,7 @@ export default function TechSection() {
                 </div>
               </Col>
             </Row>
-            <Row>
+            <Row mode="verticle">
               <Col xs={24} sm={12} className="pl-15 pr-15 bs-bb">
                 <p className="tech_bottom_desc text-grey text-white-md mb-30 text-left lh-15">
                   As one of the world's largest ITService Providers with over
@@ -163,7 +163,7 @@ export default function TechSection() {
                 </p>
                 <a
                   className="tech_btn_bottom no-underline d-flex justify-center item-center mb-30 text-green"
-                  href="#"
+                  href="/"
                 >
                   <span>Request Demo</span>
                 </a>

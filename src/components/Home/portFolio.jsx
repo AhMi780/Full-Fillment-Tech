@@ -62,22 +62,22 @@ export default function PortfolioSection() {
         </div>
         <Slider {...settings}>
           <div className="card_wrapper">
-            <div className="pf_card flex-30 flex-46-md flex-100-sm">
+            <div className="pf_card ">
               <div className="pf_card_img">
                 <img className="w-100 " src={Pfc1} alt="pf"></img>
               </div>
               <div className="pf_card_content bs-bb text-left bg-white">
                 <div className="pf_cat text-green">
-                  <a className="no-underline text-green " href="#">
+                  <a className="no-underline text-green " href="/">
                     Building
                   </a>
                   ,
-                  <a className="no-underline text-green" href="#">
+                  <a className="no-underline text-green" href="/">
                     Interior
                   </a>
                 </div>
                 <h4 className="pf_card_title text-blue">
-                  <a className="no-underline text-blue" href="#">
+                  <a className="no-underline text-blue" href="/">
                     Financial’s Need For Strategic Advisor
                   </a>
                 </h4>
@@ -86,7 +86,7 @@ export default function PortfolioSection() {
                   into a more proactive role as a strategic advisor, providing
                   support and guidance across all IT topics.{" "}
                 </p>
-                <a className="pf_btn no-underline" href="#">
+                <a className="pf_btn no-underline" href="/">
                   <span className="btn_underline text-blue">Read More</span>
                   <i className="icon-arrow-right justify-center item-center d-none ml-10">
                     <ArrowRightOutlined />
@@ -96,22 +96,22 @@ export default function PortfolioSection() {
             </div>
           </div>
           <div className="card_wrapper">
-            <div className="pf_card flex-30 flex-46-md flex-100-sm">
+            <div className="pf_card ">
               <div className="pf_card_img">
                 <img className="w-100 " src={Pfc2} alt="pf"></img>
               </div>
               <div className="pf_card_content bs-bb text-left bg-white">
                 <div className="pf_cat text-green">
-                  <a className="no-underline text-green " href="#">
+                  <a className="no-underline text-green " href="/">
                     Software
                   </a>
                   ,
-                  <a className="no-underline text-green" href="#">
+                  <a className="no-underline text-green" href="/">
                     Support
                   </a>
                 </div>
                 <h4 className="pf_card_title text-blue">
-                  <a className="no-underline text-blue" href="#">
+                  <a className="no-underline text-blue" href="/">
                     24x7 System Monitoring and Alert Response{" "}
                   </a>
                 </h4>
@@ -120,7 +120,7 @@ export default function PortfolioSection() {
                   phases of selling and activation of their wireless services
                   and devices, and serves as the backbone of the operations.{" "}
                 </p>
-                <a className="pf_btn no-underline" href="#">
+                <a className="pf_btn no-underline" href="/">
                   <span className="btn_underline text-blue">Read More</span>
                   <i className="icon-arrow-right justify-center item-center d-none ml-10">
                     <ArrowRightOutlined />
@@ -130,22 +130,22 @@ export default function PortfolioSection() {
             </div>
           </div>
           <div className="card_wrapper">
-            <div className="pf_card flex-30 flex-46-md flex-100-sm">
+            <div className="pf_card ">
               <div className="pf_card_img">
                 <img className="w-100 " src={Pfc3} alt="pf"></img>
               </div>
               <div className="pf_card_content bs-bb text-left bg-white">
                 <div className="pf_cat text-green">
-                  <a className="no-underline text-green " href="#">
+                  <a className="no-underline text-green " href="/">
                     Management
                   </a>
                   ,
-                  <a className="no-underline text-green" href="#">
+                  <a className="no-underline text-green" href="/">
                     Cloud
                   </a>
                 </div>
                 <h4 className="pf_card_title text-blue">
-                  <a className="no-underline text-blue" href="#">
+                  <a className="no-underline text-blue" href="/">
                     Nonprofit Organization Utilized Security{" "}
                   </a>
                 </h4>
@@ -154,7 +154,7 @@ export default function PortfolioSection() {
                   organization’s “normal.” We came on board with the objective
                   of stabilizing the environment, assisting{" "}
                 </p>
-                <a className="pf_btn no-underline" href="#">
+                <a className="pf_btn no-underline" href="/">
                   <span className="btn_underline text-blue">Read More</span>
                   <i className="icon-arrow-right justify-center item-center d-none ml-10">
                     <ArrowRightOutlined />
@@ -164,22 +164,22 @@ export default function PortfolioSection() {
             </div>
           </div>
           <div className="card_wrapper">
-            <div className="pf_card flex-30 flex-46-md flex-100-sm">
+            <div className="pf_card ">
               <div className="pf_card_img">
                 <img className="w-100 " src={Pfc3} alt="pf"></img>
               </div>
               <div className="pf_card_content bs-bb text-left bg-white">
                 <div className="pf_cat text-green">
-                  <a className="no-underline text-green " href="#">
+                  <a className="no-underline text-green " href="/">
                     Management
                   </a>
                   ,
-                  <a className="no-underline text-green" href="#">
+                  <a className="no-underline text-green" href="/">
                     Cloud
                   </a>
                 </div>
                 <h4 className="pf_card_title text-blue">
-                  <a className="no-underline text-blue" href="#">
+                  <a className="no-underline text-blue" href="/">
                     Nonprofit Organization Utilized Security{" "}
                   </a>
                 </h4>
@@ -188,7 +188,7 @@ export default function PortfolioSection() {
                   organization’s “normal.” We came on board with the objective
                   of stabilizing the environment, assisting{" "}
                 </p>
-                <a className="pf_btn no-underline" href="#">
+                <a className="pf_btn no-underline" href="/">
                   <span className="btn_underline text-blue">Read More</span>
                   <i className="icon-arrow-right justify-center item-center d-none ml-10">
                     <ArrowRightOutlined />
@@ -198,22 +198,22 @@ export default function PortfolioSection() {
             </div>
           </div>
           <div className="card_wrapper">
-            <div className="pf_card flex-30 flex-46-md flex-100-sm">
+            <div className="pf_card ">
               <div className="pf_card_img">
                 <img className="w-100 " src={Pfc2} alt="pf"></img>
               </div>
               <div className="pf_card_content bs-bb text-left bg-white">
                 <div className="pf_cat text-green">
-                  <a className="no-underline text-green " href="#">
+                  <a className="no-underline text-green " href="/">
                     Software
                   </a>
                   ,
-                  <a className="no-underline text-green" href="#">
+                  <a className="no-underline text-green" href="/">
                     Support
                   </a>
                 </div>
                 <h4 className="pf_card_title text-blue">
-                  <a className="no-underline text-blue" href="#">
+                  <a className="no-underline text-blue" href="/">
                     24x7 System Monitoring and Alert Response{" "}
                   </a>
                 </h4>
@@ -222,7 +222,7 @@ export default function PortfolioSection() {
                   phases of selling and activation of their wireless services
                   and devices, and serves as the backbone of the operations.{" "}
                 </p>
-                <a className="pf_btn no-underline" href="#">
+                <a className="pf_btn no-underline" href="/">
                   <span className="btn_underline text-blue">Read More</span>
                   <i className="icon-arrow-right justify-center item-center d-none ml-10">
                     <ArrowRightOutlined />

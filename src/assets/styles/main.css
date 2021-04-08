@@ -215,6 +215,12 @@
 .ml-10 {
   margin-left: 10px;
 }
+.mr-15 {
+  margin-right: 15px;
+}
+.ml-15 {
+  margin-left: 15px;
+}
 .pr-15 {
   padding-right: 15px;
 }
@@ -820,7 +826,6 @@ nav {
 }
 .card_wrapper {
   position: relative;
-  width: 100%;
   padding: 15px;
   box-sizing: border-box;
 }
@@ -951,7 +956,7 @@ nav {
   font-weight: lighter;
 }
 .contact_panel {
-  padding: 60px 40px;
+  padding: 60px 25px;
   border-radius: 4px;
   background-color: #ffffff;
   box-shadow: 0px 5px 83px 0px rgba(40, 40, 40, 0.12);
@@ -1051,15 +1056,12 @@ nav {
   flex: 0 0 41.666667%;
   max-width: 41.666667%;
 }
-.footer_scrollup_btn {
-  flex: 0 0 16.666667%;
-  max-width: 16.666667%;
-}
 .scrlup-btn {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   border: none;
   cursor: pointer;
+  background: none;
 }
 .social_ul {
   margin-right: 30px;

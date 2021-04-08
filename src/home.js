@@ -3,6 +3,7 @@ import Second from "./components/Home/second";
 import ITsection from "./components/Home/itSection";
 import TechSection from "./components/Home/techSection";
 import PortfolioSection from "./components/Home/portFolio";
+import FormSection from "./components/Home/bannerForm";
 export default function Home() {
   return (
     <>
@@ -11,6 +12,7 @@ export default function Home() {
       <ITsection />
       <TechSection />
       <PortfolioSection />
+      <FormSection />
     </>
   );
 }

@@ -36,7 +36,7 @@ export default function Header() {
             </p>
             <div className="d-flex flex-wrap">
               <a
-                href="#"
+                href="/"
                 className="btn_header btn ps-relative index-1 no-underline bg-green d-flex justify-center item-center text-white mr-30 mb-10"
               >
                 More About Us
@@ -45,7 +45,7 @@ export default function Header() {
                 </i>
               </a>
               <a
-                href="#"
+                href="/"
                 className="btn_header btn ps-relative index-1 no-underline bg-white d-flex justify-center item-center text-black"
               >
                 Our Services
@@ -67,7 +67,7 @@ export default function Header() {
             </p>
             <div className="d-flex flex-wrap">
               <a
-                href="#"
+                href="/"
                 className="btn_header btn ps-relative index-1 no-underline bg-green d-flex justify-center item-center text-white mr-30 mb-10"
               >
                 More About Us
@@ -76,7 +76,7 @@ export default function Header() {
                 </i>
               </a>
               <a
-                href="#"
+                href="/"
                 className="btn_header btn ps-relative index-1 no-underline bg-white d-flex justify-center item-center text-black"
               >
                 Our Services

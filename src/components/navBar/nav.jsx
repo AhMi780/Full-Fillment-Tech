@@ -40,39 +40,39 @@ export default function NavBar() {
                 </Link>
               </li>
               <li className="li_it_soloution li-style-none">
-                <a href="" className="no-underline text-white">
+                <Link to="" className="no-underline text-white">
                   {" "}
                   IT Solutions
-                </a>
+                </Link>
               </li>
               <li className="li_news li-style-none">
-                <a href="" className="no-underline text-white">
+                <Link href="" className="no-underline text-white">
                   {" "}
                   News&Media
-                </a>
+                </Link>
               </li>
               <li className="li-style-none">
-                <a href="" className="no-underline text-white">
+                <Link href="" className="no-underline text-white">
                   {" "}
                   Features
-                </a>
+                </Link>
               </li>
               <li className="li-style-none mr-0">
-                <a href="" className="no-underline text-white">
+                <Link href="" className="no-underline text-white">
                   {" "}
                   Contacts
-                </a>
+                </Link>
               </li>
             </ul>
 
             <ul className="nav_action_buttons li-style-none d-flex item-center h-100">
               <li className="ml-20 nav_action_btn_quote d-none-lg">
-                <a
+                <Link
                   href=""
                   className="nav_quote_btn btn no-underline bg-white text-black d-flex justify-center item-center"
                 >
                   Request A Quote
-                </a>
+                </Link>
               </li>
               <li className="ml-20 ">
                 <button className="login_btn bg-trans text-white-lg ">
